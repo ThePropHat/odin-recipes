@@ -1,1 +1,2 @@
 # odin-recipes
+I'm really excited to be this far into The Odin Project! I don't suspect this will be a challenging lesson, I'm hoping to cement these foundations in during the creation of this webpage. This is my recipes website!
